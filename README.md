@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project Develops a North Indian Food Delivery Application designed exclusively for South Indian users, offering a curated selection of authentic North Indian dishes traditionally unavailable in the region, ensuring a unique and flavorful dining experience.
 
 A few resources to get you started if this is your first Flutter project:
 
